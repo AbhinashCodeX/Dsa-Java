@@ -1,4 +1,5 @@
 import java.util.*;
+//its only work on the sorted array and the time complexity of Bs is O(log N)
 public class Binary_search {
     //    static int binarysearch(int[] arr,int n , int key){
 //        int s = 0;
