@@ -1,4 +1,5 @@
 import java.util.*;
+//Time complexity of the reverse arrays is O(N).
 public class reverse_array {
     static int reversearray(int[] arr , int n ){
         int s=0;
