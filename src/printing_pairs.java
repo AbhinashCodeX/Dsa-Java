@@ -2,6 +2,7 @@ import java.util.*;
 public class printing_pairs {
     static void printingpairs(int[] arr, int n){
 
+        //Three loop for the pyramid printing of the numbers
         for(int i=0;i<n;i++){
             for(int j=i; j<n;j++){
                 for(int k=i;k<=j;k++){
